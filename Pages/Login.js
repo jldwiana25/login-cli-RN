@@ -37,7 +37,7 @@ const styles=StyleSheet.create({
         fontSize:15,
     },
     buttonSup:{
-        color:'red',
+        color:'#b71c1c',
         fontSize:16,
     },
     textLogin:{
